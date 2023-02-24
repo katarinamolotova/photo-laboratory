@@ -1,6 +1,6 @@
 # photo_laboratory
 
-Teaching team project. Implemented in a team of two people. 
+Teaching team project. Implemented in a team of three people. 
 Team: [Mikhail Kukhtachev](https://github.com/Kuhtaaa) [Almaz Azizov](https://github.com/s21violette)
 
 In this project it was necessary to develop your own mini photoshop with the following features:
